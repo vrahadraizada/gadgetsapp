@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Iphone 12Pro",
+            "desc": "Apple iphone 12th generation",
+            "price": 999,
+            "color": "#35505A",
+            "image": "assets/images/iphone-12-pro.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Mac Pro",
+            "desc": "Apple mac pro new edition",
+            "price": 1399,
+            "color": "#00AC51",
+            "image": "assets/images/mac-pro.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Pixel",
+            "desc": "New Pixel Model Ultrathin",
+            "price": 799,
+            "color": "#E0BFAE",
+            "image": "assets/images/pixel.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Samsung",
+            "desc": "Samsung super fast speed",
+            "price": 539,
+            "color": "#544EE4",
+            "image": "assets/images/Samsung.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Sony Playstation",
+            "desc": "Real Game Playstation",
+            "price": 1500,
+            "color": "#E3E4E9",
+            "image": "assets/images/sony-playstation.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Watch",
+            "desc": "Senses Watch with longlife battery",
+            "price": 700,
+            "color": "#F73984",
+            "image": "assets/images/watch.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Apple Airpods",
+            "desc": "Wireless Apple Airpods white",
+            "price": 649,
+            "color": "#1C1C1C",
+            "image": "assets/images/apple-airpods.jpeg"
+        },
+        {
+            "id": 8,
+            "name": "Ipad Pro",
+            "desc": "Ipad Pro new generation model",
+            "price": 1199,
+            "color": "#7C95EB",
+            "image": "assets/images/ipad-pro.jpg"
+        }
+    ]
+}
